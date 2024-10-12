@@ -19,3 +19,7 @@ Check the [wiki](https://github.com/ihm-tswow/Links-Awakening-DX-HD/wiki) for a 
 ## Publishing
 
 To publish, you can run the `publish.bat`, which will produce the folder `Publish` that you can send to your friends.
+
+## Guess What!
+
+I compiled it, aaaaannnnddd you can download it from the releases section! enjoy! :D
